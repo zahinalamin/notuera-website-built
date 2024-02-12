@@ -1,1 +1,232 @@
-{"sections":{"image_banner":{"type":"image-banner","blocks":{"heading":{"type":"heading","settings":{"heading":"Baby Food","heading_size":"h0"}},"text_8W7p8m":{"type":"text","settings":{"text":"Get the best baby food here","text_style":"body"}},"button":{"type":"buttons","settings":{"button_label_1":"Shop all","button_link_1":"shopify:\/\/collections\/all","button_style_secondary_1":true,"button_label_2":"","button_link_2":"","button_style_secondary_2":true}}},"block_order":["heading","text_8W7p8m","button"],"settings":{"image":"shopify:\/\/shop_images\/children-sharing-and-playing-with-toys.jpg","image_overlay_opacity":20,"image_height":"medium","desktop_content_position":"bottom-center","show_text_box":false,"desktop_content_alignment":"center","color_scheme":"scheme-3","image_behavior":"none","mobile_content_alignment":"center","stack_images_on_mobile":false,"show_text_below":false}},"rich_text_itDkQU":{"type":"rich-text","blocks":{"heading_WexK6R":{"type":"heading","settings":{"heading":"NotuEra is for Baby","heading_size":"h1"}},"text_8qjJyz":{"type":"text","settings":{"text":"<p>A noe-stop online shop to find imported and local baby items<\/p>"}}},"block_order":["heading_WexK6R","text_8qjJyz"],"custom_css":[],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"scheme-3","full_width":true,"padding_top":20,"padding_bottom":20}},"featured_collection_fwXUKF":{"type":"featured-collection","settings":{"title":"Top selling product","heading_size":"h1","description":"","show_description":false,"description_style":"body","collection":"frontpage","products_to_show":3,"columns_desktop":3,"full_width":false,"show_view_all":true,"view_all_style":"solid","enable_desktop_slider":false,"color_scheme":"scheme-3","image_ratio":"adapt","image_shape":"default","show_secondary_image":false,"show_vendor":false,"show_rating":false,"enable_quick_add":true,"columns_mobile":"2","swipe_on_mobile":true,"padding_top":36,"padding_bottom":36}},"collage_igBd7N":{"type":"collage","blocks":{"image_UktLbB":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Gerber-Hearty-Bits-Cereal.webp"}},"product_rNNcnn":{"type":"product","settings":{"product":"gerber-strawberry-apple-puffs-cereal-snack","second_image":false}},"product_pmG6bY":{"type":"product","settings":{"product":"gerber-hearty-bits-multigrain-banana-apple-strawberry-cereal-1","second_image":false}}},"block_order":["image_UktLbB","product_rNNcnn","product_pmG6bY"],"settings":{"heading":"Multimedia collage","heading_size":"h1","desktop_layout":"left","mobile_layout":"column","card_styles":"product-card-wrapper","color_scheme":"","padding_top":36,"padding_bottom":36}},"video_F8KE9C":{"type":"video","settings":{"heading":"Video","heading_size":"h1","enable_video_looping":false,"video":"shopify:\/\/files\/videos\/pexels-henrique-feiten-15249167 (1440p).mp4","video_url":"https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc","description":"","full_width":false,"color_scheme":"","padding_top":36,"padding_bottom":36}},"multicolumn_8fYeWx":{"type":"multicolumn","blocks":{"column_yBCCC9":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/unnamed.png","title":"Fast Delivery","text":"<p>Get Fastest Delivery With us<\/p>","link_label":"","link":""}},"column_rGCy9w":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/pngtree-original-product-badge-in-vintage-flat-design-png-image_6522881_f3ccc487-605c-4de6-b856-ef697049f442.png","title":"Original Product","text":"<p>Get 100% Origianl Product  On Our Shop<\/p>","link_label":"","link":""}},"column_gREUax":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/download.jpg","title":"Best Product","text":"<p>You will always get best Product on out shop<\/p>","link_label":"Chat Now","link":""}}},"block_order":["column_yBCCC9","column_rGCy9w","column_gREUax"],"settings":{"title":"Multicolumn","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":3,"column_alignment":"center","background_style":"primary","button_label":"Button label","button_link":"shopify:\/\/collections\/all","color_scheme":"scheme-3","columns_mobile":"1","swipe_on_mobile":false,"padding_top":12,"padding_bottom":12}}},"order":["image_banner","rich_text_itDkQU","featured_collection_fwXUKF","collage_igBd7N","video_F8KE9C","multicolumn_8fYeWx"]}
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Baby Food",
+            "heading_size": "h0"
+          }
+        },
+        "text_8W7p8m": {
+          "type": "text",
+          "settings": {
+            "text": "Get the best baby food here",
+            "text_style": "body"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop all",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text_8W7p8m",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/children-sharing-and-playing-with-toys.jpg",
+        "image_overlay_opacity": 20,
+        "image_height": "medium",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "rich_text_itDkQU": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_WexK6R": {
+          "type": "heading",
+          "settings": {
+            "heading": "NotuEra is for Baby",
+            "heading_size": "h1"
+          }
+        },
+        "text_8qjJyz": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A noe-stop online shop to find imported and local baby items<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_WexK6R",
+        "text_8qjJyz"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "featured_collection_fwXUKF": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Top selling product",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "frontpage",
+        "products_to_show": 3,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-3",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collage_igBd7N": {
+      "type": "collage",
+      "blocks": {
+        "image_UktLbB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Gerber-Hearty-Bits-Cereal.webp"
+          }
+        },
+        "product_rNNcnn": {
+          "type": "product",
+          "settings": {
+            "product": "gerber-strawberry-apple-puffs-cereal-snack",
+            "second_image": false
+          }
+        },
+        "product_pmG6bY": {
+          "type": "product",
+          "settings": {
+            "product": "gerber-hearty-bits-multigrain-banana-apple-strawberry-cereal-1",
+            "second_image": false
+          }
+        }
+      },
+      "block_order": [
+        "image_UktLbB",
+        "product_rNNcnn",
+        "product_pmG6bY"
+      ],
+      "settings": {
+        "heading": "Multimedia collage",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "video_F8KE9C": {
+      "type": "video",
+      "settings": {
+        "heading": "Video",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video": "shopify:\/\/files\/videos\/pexels-henrique-feiten-15249167 (1440p).mp4",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_8fYeWx": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_yBCCC9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/unnamed.png",
+            "title": "Fast Delivery",
+            "text": "<p>Get Fastest Delivery With us<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_rGCy9w": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pngtree-original-product-badge-in-vintage-flat-design-png-image_6522881_f3ccc487-605c-4de6-b856-ef697049f442.png",
+            "title": "Original Product",
+            "text": "<p>Get 100% Origianl Product  On Our Shop<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_gREUax": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download.jpg",
+            "title": "Best Product",
+            "text": "<p>You will always get best Product on out shop<\/p>",
+            "link_label": "Chat Now",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_yBCCC9",
+        "column_rGCy9w",
+        "column_gREUax"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "shopify:\/\/collections\/all",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "rich_text_itDkQU",
+    "featured_collection_fwXUKF",
+    "collage_igBd7N",
+    "video_F8KE9C",
+    "multicolumn_8fYeWx"
+  ]
+}
